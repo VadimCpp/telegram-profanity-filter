@@ -1,0 +1,42 @@
+{
+  "message_id": 515,
+  "from": {
+    "id": 123456789,
+    "is_bot": false,
+    "first_name": "John",
+    "last_name": "Doe",
+    "username": "johndoe",
+    "language_code": "en",
+    "is_premium": true
+  },
+  "chat": {
+    "id": 123456789,
+    "first_name": "John",
+    "last_name": "Doe",
+    "username": "johndoe",
+    "type": "private"
+  },
+  "date": 1745191652,
+  "reply_to_message": {
+    "message_id": 513,
+    "from": {
+      "id": 123456789,
+      "is_bot": false,
+      "first_name": "John",
+      "last_name": "Doe",
+      "username": "johndoe",
+      "language_code": "en",
+      "is_premium": true
+    },
+    "chat": {
+      "id": 123456789,
+      "first_name": "John",
+      "last_name": "Doe",
+      "username": "johndoe",
+      "type": "private"
+    },
+    "date": 1745191634,
+    "text": "Message 1"
+  },
+  "text": "Replying to. Message 2"
+}

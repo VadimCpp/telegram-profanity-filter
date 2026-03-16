@@ -38,6 +38,17 @@ Expected output:
 | `TELEGRAM_BOT_TOKEN` | From [@BotFather](https://t.me/BotFather) |
 | `HEROKU_URL` | App URL when using webhooks (e.g. `https://your-app.herokuapp.com/`) |
 
+## Production setup
+
+Before deploying, set these in `src/messenger/telegram.ts`:
+
+| Constant | Description |
+|----------|-------------|
+| `CENSOR_CHAT_ID` | Telegram chat ID where censored message reports are sent (e.g. `-10xxxxxx27` for a group/supergroup). Get it by adding [@userinfobot](https://t.me/userinfobot) to the chat or from the group invite link. |
+| `ADMIN_ID` | Your Telegram user ID (e.g. `74xxxxx0`). Get it from [@userinfobot](https://t.me/userinfobot) in a private chat. |
+
+Replace the `0` placeholders with your actual IDs.
+
 ## Deploy
 
 ```bash

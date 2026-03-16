@@ -1,0 +1,39 @@
+{
+  "message_id": 13321,
+  "from": {
+    "id": 987654321,
+    "is_bot": false,
+    "first_name": "John",
+    "last_name": "Doe",
+    "username": "johndoe",
+    "language_code": "en",
+    "is_premium": true
+  },
+  "chat": {
+    "id": -1001234567890,
+    "title": "Test Group",
+    "type": "supergroup"
+  },
+  "date": 1745434352,
+  "message_thread_id": 13311,
+  "reply_to_message": {
+    "message_id": 13311,
+    "from": {
+      "id": 987654321,
+      "is_bot": false,
+      "first_name": "John",
+      "last_name": "Doe",
+      "username": "johndoe",
+      "language_code": "en",
+      "is_premium": true
+    },
+    "chat": {
+      "id": -1001234567890,
+      "title": "Test Group",
+      "type": "supergroup"
+    },
+    "date": 1745433730,
+    "text": "тест пидар"
+  },
+  "text": "А теперь ответик с матом, блядь!"
+}

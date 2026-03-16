@@ -1,0 +1,43 @@
+{
+  "message_id": 13386,
+  "from": {
+    "id": 123456789,
+    "is_bot": false,
+    "first_name": "John",
+    "last_name": "Doe", 
+    "username": "johndoe",
+    "language_code": "en",
+    "is_premium": false
+  },
+  "chat": {
+    "id": -1001234567890,
+    "title": "Test Group",
+    "type": "supergroup"
+  },
+  "date": 1745509308,
+  "video": {
+    "duration": 6,
+    "width": 720,
+    "height": 1280,
+    "file_name": "IMG_0549.MP4",
+    "mime_type": "video/mp4",
+    "thumbnail": {
+      "file_id": "AAMCAgADHQJgCG5IAAI0VmgKW7zYNutcQm86K3Bn3LnmgPhJAAKYcwACoP5QSB6YcaL9jRUUAQAHbQADNgQ",
+      "file_unique_id": "AQADmHMAAqD-UEhy",
+      "file_size": 6182,
+      "width": 180,
+      "height": 320
+    },
+    "thumb": {
+      "file_id": "AAMCAgADHQJgCG5IAAI0VmgKW7zYNutcQm86K3Bn3LnmgPhJAAKYcwACoP5QSB6YcaL9jRUUAQAHbQADNgQ",
+      "file_unique_id": "AQADmHMAAqD-UEhy",
+      "file_size": 6182,
+      "width": 180,
+      "height": 320
+    },
+    "file_id": "BAACAgIAAx0CYAhuSAACNFZoClu82DbrXEJvOitwZ9y55oD4SQACmHMAAqD-UEgemHGi_Y0VFDYE",
+    "file_unique_id": "AgADmHMAAqD-UEg",
+    "file_size": 2461132
+  },
+  "caption": "Видео с подписью без мата"
+}

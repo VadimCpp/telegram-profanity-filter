@@ -1,0 +1,41 @@
+{
+  "message_id": 547,
+  "from": {
+    "id": 123456789,
+    "is_bot": false,
+    "first_name": "John",
+    "last_name": "Smith",
+    "username": "johnsmith",
+    "language_code": "en",
+    "is_premium": true
+  },
+  "chat": {
+    "id": 123456789,
+    "first_name": "John",
+    "last_name": "Smith",
+    "username": "johnsmith",
+    "type": "private"
+  },
+  "date": 1745254140,
+  "document": {
+    "file_name": "iWBwKukUNDk.jpg",
+    "mime_type": "image/jpeg",
+    "thumbnail": {
+      "file_id": "AAMCAgADGQEAAgIjaAZ2_LOVUsh5lMl4XwYByNG2q2sAAjtwAAIOxTlIUnOUjSkUYk0BAAdtAAM2BA",
+      "file_unique_id": "AQADO3AAAg7FOUhy",
+      "file_size": 9756,
+      "width": 320,
+      "height": 213
+    },
+    "thumb": {
+      "file_id": "AAMCAgADGQEAAgIjaAZ2_LOVUsh5lMl4XwYByNG2q2sAAjtwAAIOxTlIUnOUjSkUYk0BAAdtAAM2BA",
+      "file_unique_id": "AQADO3AAAg7FOUhy",
+      "file_size": 9756,
+      "width": 320,
+      "height": 213
+    },
+    "file_id": "BQACAgIAAxkBAAICI2gGdvyzlVLIeZTJeF8GAcjRtqtrAAI7cAACDsU5SFJzlI0pFGJNNgQ",
+    "file_unique_id": "AgADO3AAAg7FOUg",
+    "file_size": 70003
+  }
+}

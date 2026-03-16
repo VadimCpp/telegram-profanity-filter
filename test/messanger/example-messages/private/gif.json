@@ -1,0 +1,65 @@
+{
+  "message_id": 566,
+  "from": {
+    "id": 123456789,
+    "is_bot": false,
+    "first_name": "John",
+    "last_name": "Smith",
+    "username": "johnsmith",
+    "language_code": "en",
+    "is_premium": true
+  },
+  "chat": {
+    "id": 123456789,
+    "first_name": "John",
+    "last_name": "Smith",
+    "username": "johnsmith",
+    "type": "private"
+  },
+  "date": 1745258225,
+  "animation": {
+    "file_name": "IMG_9277.MOV",
+    "mime_type": "video/mp4",
+    "duration": 9,
+    "width": 352,
+    "height": 624,
+    "thumbnail": {
+      "file_id": "AAMCAgADGQEAAgI2aAaG8RglWQhUlyXa36Y57WENtW8AAnxVAAIPV2hJjMTKPp18gZMBAAdtAAM2BA",
+      "file_unique_id": "AQADfFUAAg9XaEly",
+      "file_size": 23143,
+      "width": 181,
+      "height": 320
+    },
+    "thumb": {
+      "file_id": "AAMCAgADGQEAAgI2aAaG8RglWQhUlyXa36Y57WENtW8AAnxVAAIPV2hJjMTKPp18gZMBAAdtAAM2BA",
+      "file_unique_id": "AQADfFUAAg9XaEly",
+      "file_size": 23143,
+      "width": 181,
+      "height": 320
+    },
+    "file_id": "CgACAgIAAxkBAAICNmgGhvEYJVkIVJcl2t-mOe1hDbVvAAJ8VQACD1doSYzEyj6dfIGTNgQ",
+    "file_unique_id": "AgADfFUAAg9XaEk",
+    "file_size": 737852
+  },
+  "document": {
+    "file_name": "IMG_9277.MOV",
+    "mime_type": "video/mp4",
+    "thumbnail": {
+      "file_id": "AAMCAgADGQEAAgI2aAaG8RglWQhUlyXa36Y57WENtW8AAnxVAAIPV2hJjMTKPp18gZMBAAdtAAM2BA",
+      "file_unique_id": "AQADfFUAAg9XaEly",
+      "file_size": 23143,
+      "width": 181,
+      "height": 320
+    },
+    "thumb": {
+      "file_id": "AAMCAgADGQEAAgI2aAaG8RglWQhUlyXa36Y57WENtW8AAnxVAAIPV2hJjMTKPp18gZMBAAdtAAM2BA",
+      "file_unique_id": "AQADfFUAAg9XaEly",
+      "file_size": 23143,
+      "width": 181,
+      "height": 320
+    },
+    "file_id": "CgACAgIAAxkBAAICNmgGhvEYJVkIVJcl2t-mOe1hDbVvAAJ8VQACD1doSYzEyj6dfIGTNgQ",
+    "file_unique_id": "AgADfFUAAg9XaEk",
+    "file_size": 737852
+  }
+}

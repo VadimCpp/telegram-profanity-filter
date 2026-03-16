@@ -1,0 +1,46 @@
+{
+  "message_id": 565,
+  "from": {
+    "id": 123456789,
+    "is_bot": false,
+    "first_name": "John",
+    "last_name": "Doe",
+    "username": "johndoe",
+    "language_code": "en",
+    "is_premium": false
+  },
+  "chat": {
+    "id": 123456789,
+    "first_name": "John",
+    "last_name": "Doe",
+    "username": "johndoe",
+    "type": "private"
+  },
+  "date": 1745258091,
+  "sticker": {
+    "width": 512,
+    "height": 512,
+    "emoji": "😂",
+    "set_name": "JoannaforVlad",
+    "is_animated": false,
+    "is_video": false,
+    "type": "regular",
+    "thumbnail": {
+      "file_id": "AAMCAgADGQEAAgI1aAaGa4k0kkqn4WfMy9pmOafZG94AAg48AAJYRHhL98nSK0GCE4MBAAdtAAM2BA",
+      "file_unique_id": "AQADDjwAAlhEeEty",
+      "file_size": 15122,
+      "width": 320,
+      "height": 320
+    },
+    "thumb": {
+      "file_id": "AAMCAgADGQEAAgI1aAaGa4k0kkqn4WfMy9pmOafZG94AAg48AAJYRHhL98nSK0GCE4MBAAdtAAM2BA",
+      "file_unique_id": "AQADDjwAAlhEeEty",
+      "file_size": 15122,
+      "width": 320,
+      "height": 320
+    },
+    "file_id": "CAACAgIAAxkBAAICNWgGhmuJNJJKp-FnzMvaZjmn2RveAAIOPAACWER4S_fJ0itBghODNgQ",
+    "file_unique_id": "AgADDjwAAlhEeEs",
+    "file_size": 28638
+  }
+}

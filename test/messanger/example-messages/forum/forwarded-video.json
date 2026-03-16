@@ -1,0 +1,97 @@
+{
+  "message_id": 34,
+  "from": {
+    "id": 987654321,
+    "is_bot": false,
+    "first_name": "John",
+    "last_name": "Doe",
+    "username": "johndoe",
+    "language_code": "en",
+    "is_premium": false
+  },
+  "chat": {
+    "id": -1001234567890,
+    "title": "Test Group Chat",
+    "is_forum": true,
+    "type": "supergroup"
+  },
+  "date": 1678901234,
+  "message_thread_id": 42,
+  "forward_origin": {
+    "type": "user",
+    "sender_user": {
+      "id": 987654321,
+      "is_bot": false,
+      "first_name": "John",
+      "last_name": "Doe",
+      "username": "johndoe",
+      "language_code": "en",
+      "is_premium": false
+    },
+    "date": 1678900000
+  },
+  "forward_from": {
+    "id": 987654321,
+    "is_bot": false,
+    "first_name": "John",
+    "last_name": "Doe",
+    "username": "johndoe",
+    "language_code": "en",
+    "is_premium": false
+  },
+  "forward_date": 1678900000,
+  "reply_to_message": {
+    "message_id": 3,
+    "from": {
+      "id": 987654321,
+      "is_bot": false,
+      "first_name": "John",
+      "last_name": "Doe",
+      "username": "johndoe",
+      "language_code": "en",
+      "is_premium": false
+    },
+    "chat": {
+      "id": -1001234567890,
+      "title": "Test Group Chat",
+      "is_forum": true,
+      "type": "supergroup"
+    },
+    "date": 1745518621,
+    "message_thread_id": 3,
+    "forum_topic_created": {
+      "name": "sabaka",
+      "icon_color": 7322096,
+      "icon_custom_emoji_id": "5237999392438371490"
+    },
+    "is_topic_message": true
+  },
+  "video": {
+    "duration": 6,
+    "width": 464,
+    "height": 824,
+    "file_name": "IMG_0549.MP4",
+    "mime_type": "video/mp4",
+    "thumbnail": {
+      "file_id": "AAMCAgADHQJgCG5IAAI0WGgKXl9v8KIZa40r1cH4jmDwv3zIAALhaAACmh5YSDyQByLUF79XAQAHbQADNgQ",
+      "file_unique_id": "AQAD4WgAApoeWEhy",
+      "file_size": 5713,
+      "width": 180,
+      "height": 320
+    },
+    "thumb": {
+      "file_id": "AAMCAgADHQJgCG5IAAI0WGgKXl9v8KIZa40r1cH4jmDwv3zIAALhaAACmh5YSDyQByLUF79XAQAHbQADNgQ",
+      "file_unique_id": "AQAD4WgAApoeWEhy",
+      "file_size": 5713,
+      "width": 180,
+      "height": 320
+    },
+    "file_id": "BAACAgIAAx0CYAhuSAACNFhoCl5fb_CiGWuNK9XB-I5g8L98yAAC4WgAApoeWEg8kAci1Be_VzYE",
+    "file_unique_id": "AgAD4WgAApoeWEg",
+    "file_size": 1283082
+  },
+  "caption": "Вот у меня короткое видео с подписью. Добавил спойлер на видео. Переместил подпись наверх. Сжал блядь качество до 480. Пиздец, сколько в телеге настроек!",
+  "show_caption_above_media": true,
+  "has_media_spoiler": true,
+  "is_topic_message": true
+}

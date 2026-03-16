@@ -1,0 +1,90 @@
+{
+  "message_id": 13345,
+  "from": {
+    "id": 123456789,
+    "is_bot": false,
+    "first_name": "John",
+    "last_name": "Doe",
+    "username": "johndoe",
+    "language_code": "en",
+    "is_premium": true
+  },
+  "chat": {
+    "id": -1001234567890,
+    "title": "Test Group",
+    "type": "supergroup"
+  },
+  "date": 1745443057,
+  "message_thread_id": 13335,
+  "reply_to_message": {
+    "message_id": 13335,
+    "from": {
+      "id": 123456789,
+      "is_bot": false,
+      "first_name": "John",
+      "last_name": "Doe",
+      "username": "johndoe",
+      "language_code": "en",
+      "is_premium": true
+    },
+    "chat": {
+      "id": -1001234567890,
+      "title": "Test Group",
+      "type": "supergroup"
+    },
+    "date": 1745435730,
+    "photo": [
+      {
+        "file_id": "AgACAgIAAx0CYAhuSAACNBdoCTxSeVa8A-CvgfciIFl8dPKbyQACVuwxG1LOSEgQCbrEgXI1CwEAAwIAA3MAAzYE",
+        "file_unique_id": "AQADVuwxG1LOSEh4",
+        "file_size": 761,
+        "width": 90,
+        "height": 34
+      },
+      {
+        "file_id": "AgACAgIAAx0CYAhuSAACNBdoCTxSeVa8A-CvgfciIFl8dPKbyQACVuwxG1LOSEgQCbrEgXI1CwEAAwIAA20AAzYE",
+        "file_unique_id": "AQADVuwxG1LOSEhy",
+        "file_size": 6320,
+        "width": 320,
+        "height": 122
+      },
+      {
+        "file_id": "AgACAgIAAx0CYAhuSAACNBdoCTxSeVa8A-CvgfciIFl8dPKbyQACVuwxG1LOSEgQCbrEgXI1CwEAAwIAA3gAAzYE",
+        "file_unique_id": "AQADVuwxG1LOSEh9",
+        "file_size": 24768,
+        "width": 800,
+        "height": 306
+      },
+      {
+        "file_id": "AgACAgIAAx0CYAhuSAACNBdoCTxSeVa8A-CvgfciIFl8dPKbyQACVuwxG1LOSEgQCbrEgXI1CwEAAwIAA3kAAzYE",
+        "file_unique_id": "AQADVuwxG1LOSEh-",
+        "file_size": 31061,
+        "width": 1280,
+        "height": 489
+      }
+    ],
+    "caption": "Это - Волна"
+  },
+  "document": {
+    "file_name": "cat1.jpg",
+    "mime_type": "image/jpeg",
+    "thumbnail": {
+      "file_id": "AAMCAgADHQJgCG5IAAI0IWgJWPG3ZhSYEcq9OF9Zm7EwXlEbAAJXdgACUs5ISKZ-1rGj4fyeAQAHbQADNgQ",
+      "file_unique_id": "AQADV3YAAlLOSEhy",
+      "file_size": 9567,
+      "width": 320,
+      "height": 122
+    },
+    "thumb": {
+      "file_id": "AAMCAgADHQJgCG5IAAI0IWgJWPG3ZhSYEcq9OF9Zm7EwXlEbAAJXdgACUs5ISKZ-1rGj4fyeAQAHbQADNgQ",
+      "file_unique_id": "AQADV3YAAlLOSEhy",
+      "file_size": 9567,
+      "width": 320,
+      "height": 122
+    },
+    "file_id": "BQACAgIAAx0CYAhuSAACNCFoCVjxt2YUmBHKvThfWZuxMF5RGwACV3YAAlLOSEimftaxo-H8njYE",
+    "file_unique_id": "AgADV3YAAlLOSEg",
+    "file_size": 138833
+  },
+  "caption": "Сука кот, в ответе на сообщение!"
+}

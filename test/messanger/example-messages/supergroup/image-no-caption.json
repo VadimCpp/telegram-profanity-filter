@@ -1,0 +1,48 @@
+{
+  "message_id": 13380,
+  "from": {
+    "id": 123456789,
+    "is_bot": false,
+    "first_name": "John",
+    "last_name": "Smith",
+    "username": "johnsmith",
+    "language_code": "en",
+    "is_premium": false
+  },
+  "chat": {
+    "id": -1001234567890,
+    "title": "Test Group",
+    "type": "supergroup"
+  },
+  "date": 1745507382,
+  "photo": [
+    {
+      "file_id": "AgACAgIAAx0CYAhuSAACNERoClQ2GfWnD6NJo380IL-H70LSUgACW-4xG6D-UEiJ9Sbljc_l7QEAAwIAA3MAAzYE",
+      "file_unique_id": "AQADW-4xG6D-UEh4",
+      "file_size": 1688,
+      "width": 80,
+      "height": 90
+    },
+    {
+      "file_id": "AgACAgIAAx0CYAhuSAACNERoClQ2GfWnD6NJo380IL-H70LSUgACW-4xG6D-UEiJ9Sbljc_l7QEAAwIAA20AAzYE",
+      "file_unique_id": "AQADW-4xG6D-UEhy",
+      "file_size": 26822,
+      "width": 286,
+      "height": 320
+    },
+    {
+      "file_id": "AgACAgIAAx0CYAhuSAACNERoClQ2GfWnD6NJo380IL-H70LSUgACW-4xG6D-UEiJ9Sbljc_l7QEAAwIAA3gAAzYE",
+      "file_unique_id": "AQADW-4xG6D-UEh9",
+      "file_size": 121444,
+      "width": 714,
+      "height": 800
+    },
+    {
+      "file_id": "AgACAgIAAx0CYAhuSAACNERoClQ2GfWnD6NJo380IL-H70LSUgACW-4xG6D-UEiJ9Sbljc_l7QEAAwIAA3kAAzYE",
+      "file_unique_id": "AQADW-4xG6D-UEh-",
+      "file_size": 155670,
+      "width": 1125,
+      "height": 1260
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "message_id": 33,
+  "sender_chat": {
+    "id": -1001876115418,
+    "title": "Цензор-канал",
+    "username": "censorchannel",
+    "type": "channel"
+  },
+  "chat": {
+    "id": -1001876115418,
+    "title": "Цензор-канал",
+    "username": "censorchannel",
+    "type": "channel"
+  },
+  "date": 1745592662,
+  "text": "Скоро будет новость"
+}

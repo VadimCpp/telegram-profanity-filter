@@ -1,0 +1,42 @@
+{
+  "message_id": 553,
+  "from": {
+    "id": 123456789,
+    "is_bot": false,
+    "first_name": "John",
+    "last_name": "Smith",
+    "username": "johnsmith",
+    "language_code": "en",
+    "is_premium": true
+  },
+  "chat": {
+    "id": 123456789,
+    "first_name": "John",
+    "last_name": "Smith",
+    "username": "johnsmith",
+    "type": "private"
+  },
+  "date": 1745254714,
+  "document": {
+    "file_name": "22365_3_Prompt Engineering_v7 (1).pdf",
+    "mime_type": "application/pdf",
+    "thumbnail": {
+      "file_id": "AAMCAgADGQEAAgIpaAZ5OjYzHORAEtZzyo-Q8HvrCZYAAltwAAIOxTlISL7DKPPq19cBAAdtAAM2BA",
+      "file_unique_id": "AQADW3AAAg7FOUhy",
+      "file_size": 13338,
+      "width": 247,
+      "height": 320
+    },
+    "thumb": {
+      "file_id": "AAMCAgADGQEAAgIpaAZ5OjYzHORAEtZzyo-Q8HvrCZYAAltwAAIOxTlISL7DKPPq19cBAAdtAAM2BA",
+      "file_unique_id": "AQADW3AAAg7FOUhy",
+      "file_size": 13338,
+      "width": 247,
+      "height": 320
+    },
+    "file_id": "BQACAgIAAxkBAAICKWgGeTo2MxzkQBLWc8qPkPB76wmWAAJbcAACDsU5SEi-wyjz6tfXNgQ",
+    "file_unique_id": "AgADW3AAAg7FOUg",
+    "file_size": 6816989
+  },
+  "caption": "сука старая"
+}

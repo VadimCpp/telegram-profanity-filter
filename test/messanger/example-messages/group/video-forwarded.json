@@ -1,0 +1,75 @@
+{
+  "message_id": 589,
+  "from": {
+    "id": 123456789,
+    "is_bot": false,
+    "first_name": "John",
+    "last_name": "Doe",
+    "username": "johndoe",
+    "language_code": "en",
+    "is_premium": false
+  },
+  "chat": {
+    "id": -1001234567890,
+    "title": "Test Group",
+    "type": "group",
+    "all_members_are_administrators": true,
+    "accepted_gift_types": {
+      "unlimited_gifts": false,
+      "limited_gifts": false,
+      "unique_gifts": false,
+      "premium_subscription": false
+    }
+  },
+  "date": 1745510769,
+  "forward_origin": {
+    "type": "user",
+    "sender_user": {
+      "id": 987654321,
+      "is_bot": false,
+      "first_name": "Jane",
+      "last_name": "Smith",
+      "username": "janesmith",
+      "language_code": "en",
+      "is_premium": true
+    },
+    "date": 1745509590
+  },
+  "forward_from": {
+    "id": 987654321,
+    "is_bot": false,
+    "first_name": "Jane",
+    "last_name": "Smith",
+    "username": "janesmith",
+    "language_code": "en",
+    "is_premium": true
+  },
+  "forward_date": 1745509970,
+  "video": {
+    "duration": 6,
+    "width": 464,
+    "height": 824,
+    "file_name": "IMG_0549.MP4",
+    "mime_type": "video/mp4",
+    "thumbnail": {
+      "file_id": "AAMCAgADHQJgCG5IAAI0WGgKXl9v8KIZa40r1cH4jmDwv3zIAALhaAACmh5YSDyQByLUF79XAQAHbQADNgQ",
+      "file_unique_id": "AQAD4WgAApoeWEhy",
+      "file_size": 5713,
+      "width": 180,
+      "height": 320
+    },
+    "thumb": {
+      "file_id": "AAMCAgADHQJgCG5IAAI0WGgKXl9v8KIZa40r1cH4jmDwv3zIAALhaAACmh5YSDyQByLUF79XAQAHbQADNgQ",
+      "file_unique_id": "AQAD4WgAApoeWEhy",
+      "file_size": 5713,
+      "width": 180,
+      "height": 320
+    },
+    "file_id": "BAACAgIAAx0CYAhuSAACNFhoCl5fb_CiGWuNK9XB-I5g8L98yAAC4WgAApoeWEg8kAci1Be_VzYE",
+    "file_unique_id": "AgAD4WgAApoeWEg",
+    "file_size": 1283082
+  },
+  "caption": "Вот у меня короткое видео с подписью. Добавил спойлер на видео. Переместил подпись наверх. Сжал блядь качество до 480. Пиздец, сколько в телеге настроек!",
+  "show_caption_above_media": true,
+  "has_media_spoiler": true
+}

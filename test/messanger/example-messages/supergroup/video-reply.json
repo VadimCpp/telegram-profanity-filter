@@ -1,0 +1,63 @@
+{
+  "message_id": 13402,
+  "from": {
+    "id": 123456789,
+    "is_bot": false,
+    "first_name": "John",
+    "last_name": "Doe",
+    "username": "johndoe",
+    "language_code": "en",
+    "is_premium": false
+  },
+  "chat": {
+    "id": -1001234567890,
+    "title": "Test Group",
+    "type": "supergroup"
+  },
+  "date": 1745509601,
+  "message_thread_id": 13401,
+  "reply_to_message": {
+    "message_id": 13401,
+    "from": {
+      "id": 987654321,
+      "is_bot": false,
+      "first_name": "Jane",
+      "last_name": "Smith",
+      "username": "janesmith",
+      "language_code": "en",
+      "is_premium": true
+    },
+    "chat": {
+      "id": -1001234567890,
+      "title": "Test Group",
+      "type": "supergroup"
+    },
+    "date": 1745510257,
+    "text": "Вот еще кейс"
+  },
+  "video": {
+    "duration": 6,
+    "width": 352,
+    "height": 624,
+    "file_name": "IMG_0549.MP4",
+    "mime_type": "video/mp4",
+    "thumbnail": {
+      "file_id": "AAMCAgADHQJgCG5IAAI0WmgKX48W44_FeLiYJfvX6dIlAksaAALjcwACoP5QSMN-KgO_3L60AQAHbQADNgQ",
+      "file_unique_id": "AQAD43MAAqD-UEhy",
+      "file_size": 4552,
+      "width": 181,
+      "height": 320
+    },
+    "thumb": {
+      "file_id": "AAMCAgADHQJgCG5IAAI0WmgKX48W44_FeLiYJfvX6dIlAksaAALjcwACoP5QSMN-KgO_3L60AQAHbQADNgQ",
+      "file_unique_id": "AQAD43MAAqD-UEhy",
+      "file_size": 4552,
+      "width": 181,
+      "height": 320
+    },
+    "file_id": "BAACAgIAAx0CYAhuSAACNFpoCl-PFuOPxXi4mCX71-nSJQJLGgAC43MAAqD-UEjDfioDv9y-tDYE",
+    "file_unique_id": "AgAD43MAAqD-UEg",
+    "file_size": 583921
+  },
+  "caption": "Реплай с хуевой подписью"
+}

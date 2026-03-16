@@ -1,0 +1,92 @@
+{
+  "message_id": 32,
+  "from": {
+    "id": 987654321,
+    "is_bot": false,
+    "first_name": "John",
+    "last_name": "Doe",
+    "username": "johndoe",
+    "language_code": "en",
+    "is_premium": false
+  },
+  "chat": {
+    "id": -1001234567890,
+    "title": "Test Group Chat",
+    "is_forum": true,
+    "type": "supergroup"
+  },
+  "date": 1678901234,
+  "message_thread_id": 42,
+  "forward_origin": {
+    "type": "user",
+    "sender_user": {
+      "id": 987654321,
+      "is_bot": false,
+      "first_name": "John",
+      "last_name": "Doe",
+      "username": "johndoe",
+      "language_code": "en",
+      "is_premium": false
+    },
+    "date": 1678900000
+  },
+  "forward_from": {
+    "id": 987654321,
+    "is_bot": false,
+    "first_name": "John",
+    "last_name": "Doe",
+    "username": "johndoe",
+    "language_code": "en",
+    "is_premium": false
+  },
+  "forward_date": 1678900000,
+  "reply_to_message": {
+    "message_id": 2,
+    "from": {
+      "id": 987654321,
+      "is_bot": false,
+      "first_name": "John",
+      "last_name": "Doe",
+      "username": "johndoe",
+      "language_code": "en",
+      "is_premium": false
+    },
+    "chat": {
+      "id": -1001234567890,
+      "title": "Test Group Chat",
+      "is_forum": true,
+      "type": "supergroup"
+    },
+    "date": 1745518599,
+    "message_thread_id": 2,
+    "forum_topic_created": {
+      "name": "kotik",
+      "icon_color": 7322096,
+      "icon_custom_emoji_id": "5235728802142759605"
+    },
+    "is_topic_message": true
+  },
+  "document": {
+    "file_name": "cat3.jpg",
+    "mime_type": "image/jpeg",
+    "thumbnail": {
+      "file_id": "AAMCAgADHQJgCG5IAAI0IGgJV3ZwDpGZOQOldXdmY3QiZiuhAAKrbQACf3JRSEnyxhh4HIf6AQAHbQADNgQ",
+      "file_unique_id": "AQADq20AAn9yUUhy",
+      "file_size": 12079,
+      "width": 179,
+      "height": 320
+    },
+    "thumb": {
+      "file_id": "AAMCAgADHQJgCG5IAAI0IGgJV3ZwDpGZOQOldXdmY3QiZiuhAAKrbQACf3JRSEnyxhh4HIf6AQAHbQADNgQ",
+      "file_unique_id": "AQADq20AAn9yUUhy",
+      "file_size": 12079,
+      "width": 179,
+      "height": 320
+    },
+    "file_id": "BQACAgIAAx0CYAhuSAACNCBoCVd2cA6RmTkDpXV3ZmN0ImYroQACq20AAn9yUUhJ8sYYeByH-jYE",
+    "file_unique_id": "AgADq20AAn9yUUg",
+    "file_size": 106521
+  },
+  "caption": "три сука кота",
+  "is_topic_message": true
+}

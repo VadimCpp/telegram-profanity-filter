@@ -1,0 +1,48 @@
+{
+  "message_id": 13381,
+  "from": {
+    "id": 123456789,
+    "is_bot": false,
+    "first_name": "John",
+    "username": "johndoe",
+    "language_code": "en",
+    "is_premium": false
+  },
+  "chat": {
+    "id": -1001234567890,
+    "title": "Test Group",
+    "type": "supergroup"
+  },
+  "date": 1745507753,
+  "photo": [
+    {
+      "file_id": "AgACAgIAAx0CYAhuSAACNEVoClWpwksNTJ8YBK6hFokdcRlXPAACY-4xG6D-UEhdG1GsOvYvlwEAAwIAA3MAAzYE",
+      "file_unique_id": "AQADY-4xG6D-UEh4",
+      "file_size": 1692,
+      "width": 80,
+      "height": 90
+    },
+    {
+      "file_id": "AgACAgIAAx0CYAhuSAACNEVoClWpwksNTJ8YBK6hFokdcRlXPAACY-4xG6D-UEhdG1GsOvYvlwEAAwIAA20AAzYE",
+      "file_unique_id": "AQADY-4xG6D-UEhy",
+      "file_size": 26825,
+      "width": 286,
+      "height": 320
+    },
+    {
+      "file_id": "AgACAgIAAx0CYAhuSAACNEVoClWpwksNTJ8YBK6hFokdcRlXPAACY-4xG6D-UEhdG1GsOvYvlwEAAwIAA3gAAzYE",
+      "file_unique_id": "AQADY-4xG6D-UEh9",
+      "file_size": 121477,
+      "width": 714,
+      "height": 800
+    },
+    {
+      "file_id": "AgACAgIAAx0CYAhuSAACNEVoClWpwksNTJ8YBK6hFokdcRlXPAACY-4xG6D-UEhdG1GsOvYvlwEAAwIAA3kAAzYE",
+      "file_unique_id": "AQADY-4xG6D-UEh-",
+      "file_size": 155627,
+      "width": 1125,
+      "height": 1260
+    }
+  ],
+  "caption": "Без мата"
+}

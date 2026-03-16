@@ -1,0 +1,26 @@
+{
+  "message_id": 13298,
+  "from": {
+    "id": 987654321,
+    "is_bot": false,
+    "first_name": "John",
+    "last_name": "Doe",
+    "username": "johndoe",
+    "language_code": "en",
+    "is_premium": true
+  },
+  "chat": {
+    "id": -1001234567890,
+    "title": "Test Group",
+    "type": "supergroup"
+  },
+  "date": 1745429992,
+  "text": "Test message: is okay",
+  "entities": [
+    {
+      "offset": 0,
+      "length": 19,
+      "type": "bot_command"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "message_id": 5,
+  "from": {
+    "id": 987654321,
+    "is_bot": false,
+    "first_name": "John",
+    "last_name": "Doe",
+    "username": "johndoe",
+    "language_code": "en",
+    "is_premium": false
+  },
+  "chat": {
+    "id": -1001234567890,
+    "title": "Test Group Chat",
+    "is_forum": true,
+    "type": "supergroup"
+  },
+  "date": 1678901234,
+  "message_thread_id": 42,
+  "reply_to_message": {
+    "message_id": 3,
+    "from": {
+      "id": 987654321,
+      "is_bot": false,
+      "first_name": "John",
+      "last_name": "Doe",
+      "username": "johndoe",
+      "language_code": "en",
+      "is_premium": false
+    },
+    "chat": {
+      "id": -1001234567890,
+      "title": "Test Group Chat",
+      "is_forum": true,
+      "type": "supergroup"
+    },
+    "date": 1745518621,
+    "message_thread_id": 3,
+    "forum_topic_created": {
+      "name": "sabaka",
+      "icon_color": 7322096,
+      "icon_custom_emoji_id": "5237999392438371490"
+    },
+    "is_topic_message": true
+  },
+  "text": "Мат в топике сука-сабака",
+  "is_topic_message": true
+}
