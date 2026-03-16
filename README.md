@@ -2,6 +2,8 @@
 
 Telegram bot that filters profanity in group chats.
 
+> **Project status: Archived.** This project is no longer maintained.
+
 **[Documentation](https://vadimcpp.github.io/telegram-profanity-filter/)**
 
 ## Quick Start Locally
