@@ -1,4 +1,4 @@
 title: telegram-profanity-filter
 description: Telegram bot that filters profanity in group chats.
 
-theme: jekyll-theme-minima
+theme: minima
