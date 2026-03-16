@@ -14,4 +14,4 @@ layout: home
 * Installed in **2,000+ Telegram chats in total.**
 * Moderated conversations across **numerous real online communities.**
 
-[Русская версия →](/ru/)
+[Русская версия →]({{ "/ru/" | relative_url }})
