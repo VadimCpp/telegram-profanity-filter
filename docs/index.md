@@ -1,6 +1,6 @@
 ---
 title: telegram-profanity-filter
-layout: default
+layout: home
 ---
 
 # telegram-profanity-filter
